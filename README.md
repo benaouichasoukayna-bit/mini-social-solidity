@@ -2,14 +2,14 @@
 
 Ce dépôt contient le travail pratique de l'Atelier 3, qui consiste à développer, déployer et tester un smart contract Solidity simulant un mini réseau social décentralisé.
 
-## 🛠️ Outils et Technologies Utilisés
+## Outils et Technologies Utilisés
 - **Remix IDE** : Environnement de développement en ligne pour écrire, compiler et tester le smart contract.
 - **MetaMask** : Portefeuille numérique pour la gestion des comptes et la validation des transactions.
 - **Remix VM** : Environnement de test local simulé pour le déploiement rapide.
 
 ---
 
-## 💻 1. Code Source du Smart Contract (`MiniSocial.sol`)
+##  1. Code Source du Smart Contract (`MiniSocial.sol`)
 
 ```solidity
 // SPDX-License-Identifier: MIT
